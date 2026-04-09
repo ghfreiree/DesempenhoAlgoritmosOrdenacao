@@ -2,7 +2,7 @@
 
 Este projeto implementa uma ferramenta interativa em Python para analisar e comparar o desempenho (tempo de execução) de diferentes algoritmos de ordenação. O sistema permite gerar listas de números inteiros, ordená-las utilizando algoritmos clássicos e visualizar os resultados através de gráficos.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 O projeto oferece um menu interativo com as seguintes capacidades:
 
@@ -20,13 +20,13 @@ O projeto oferece um menu interativo com as seguintes capacidades:
 3.  **Visualização de Dados**:
     * Geração de gráfico comparativo (`grafico_desempenho.png`) utilizando `matplotlib` para visualizar a curva de crescimento de tempo x tamanho da lista.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Python 3.13**
 * **Matplotlib**: Para plotagem dos gráficos de desempenho.
 * **OS/Random/Time**: Bibliotecas padrão para manipulação de sistema, geração de dados e medição de tempo.
 
-## 📦 Pré-requisitos
+## Pré-requisitos
 
 Para rodar este projeto, você precisará ter o Python instalado e a biblioteca `matplotlib`.
 
